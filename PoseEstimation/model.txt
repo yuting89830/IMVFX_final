@@ -1,0 +1,4 @@
+Please click the link and download the version you use, then copy & paste the "model" folder in here.
+(you can delete other folders if you want)
+
+https://github.com/CMU-Perceptual-Computing-Lab/openpose/releases
