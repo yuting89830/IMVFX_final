@@ -30,9 +30,11 @@
 This code is from the paper "OpenPose: Real-time Multi-Person 2D Pose Estimation using Part Affinity Fields" presented at CVPR 2017.
 
 ### Execution Steps ###
-1.Place the original image or video into this folder: .\PoseEstimation\examples\media
+1.unzip every zipped files in "./bin" folder.
 
-2.Then, use the following command to run the code for multi-person pose estimation.
+2.Place the original image or video into this folder: .\PoseEstimation\examples\media
+
+3.Then, use the following command to run the code for multi-person pose estimation.
 
 ```
 cd .\PoseEstimation
