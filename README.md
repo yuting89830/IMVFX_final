@@ -1,3 +1,7 @@
+### Real Everybody Dance Now ###
+
+We are a group of people who love dancing but are not very good at dancing. We hope to automatically generate our own dance videos through source character dance videos. After referring to "Everybody Dance Now", we found that its paper can copy single dances, and we hope that we can After our modification, it can copy multi-person dance and realize REAL's "EVERYBODY" dance now.
+
 There are README.txt in every model's folders , please check and follow the instructions to executing the program.
 hope you enjoy it ! :)
 
@@ -64,3 +68,6 @@ python test_fullts.py \
 ```
 python images_to_video.py
 ```
+
+
+###Thanks to the team members who co-produced this project: **Zhi-yi, Chen** and **Pin-yun, Huang** from NYCU CS###
