@@ -1,5 +1,5 @@
 ### Real Everybody Dance Now 
-### This project is made by **Zhi-yi,Chen** and **Pin-yun,Huang** from NYCU CS and **Yu-ting,Shen** from NYCU Communications Security
+### This project is made by **Zhi-yi,Chen** & **Pin-yun,Huang** from NYCU CS & **Yu-ting,Shen** from NYCU Communications Security
 
 We are a group of people who love dancing but are not very good at dancing. We hope to automatically generate our own dance videos through source character dance videos. After referring to "Everybody Dance Now", we found that its paper can copy single dances, and we hope that we can After our modification, it can copy multi-person dance and realize REAL's "EVERYBODY" dance now.
 
