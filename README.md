@@ -70,4 +70,4 @@ python images_to_video.py
 ```
 
 
-###Thanks to the team members who co-produced this project: **Zhi-yi, Chen** and **Pin-yun, Huang** from NYCU CS###
+##Thanks to the team members who co-produced this project: **Zhi-yi, Chen** and **Pin-yun, Huang** from NYCU CS##
