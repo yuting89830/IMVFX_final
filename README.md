@@ -1,5 +1,5 @@
 ### Real Everybody Dance Now 
-### This project was co-produced in 2023 by Zhi-yi,Chen and Pin-yun,Huang of NYCU CS and Yu-ting,Shen of Information Security Institute , as final of the IMVFX class.
+### This project was co-produced in 2023 by Yu-ting,Shen of NYCU Information Security Institute, Zhi-yi,Chen and Pin-yun,Huang of NYCU CS as final of the IMVFX class.
 
 We are a group of people who love dancing but are not very good at dancing. We hope to automatically generate our own dance videos through source character dance videos. After referring to "Everybody Dance Now", we found that its paper can copy single dances, and we hope that we can After our modification, it can copy multi-person dance and realize REAL's "EVERYBODY" dance now.
 
